@@ -1,5 +1,5 @@
-# octopus
-🐙 Octopus is the main software in the Octopus project; an alternative to gnu coreutils, with more focus on end-user. 
+# 🐙Octopus
+Octopus is the main software in the Octopus project; an alternative to gnu coreutils, with more focus on end-user. 
 this project plans to reach these: 
  - interactive mode for all commands
  - backward computability
